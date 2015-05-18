@@ -1,3 +1,6 @@
 puts "whats your name?"
 name = gets
 puts "Hello " + name + "!!!!"
+<html>
+<title> test page</title>
+</html>
