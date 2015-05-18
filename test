@@ -2,5 +2,8 @@ puts "whats your name?"
 name = gets
 puts "Hello " + name + "!!!!"
 <html>
+<script>
+alert('test');
+</script>
 <title> test page</title>
 </html>
